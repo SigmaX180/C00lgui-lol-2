@@ -4684,12 +4684,12 @@ button.MouseButton1Down:connect(function()
 	s.Name = "Sky"
 	s.Parent = game.Lighting
 	local skyboxID = game.Players.LocalPlayer.PlayerGui.culgui.Frame.Settings.Page1["Skybox/Decal ID"].TextBox.Text
-	s.SkyboxBk = "http://www.roblox.com/asset/?id="..skyboxID
-	s.SkyboxDn = "http://www.roblox.com/asset/?id="..skyboxID
-	s.SkyboxFt = "http://www.roblox.com/asset/?id="..skyboxID
-	s.SkyboxLf = "http://www.roblox.com/asset/?id="..skyboxID
-	s.SkyboxRt = "http://www.roblox.com/asset/?id="..skyboxID
-	s.SkyboxUp = "http://www.roblox.com/asset/?id="..skyboxID
+	s.SkyboxBk = "http://www.roblox.com/asset/?id=158118263"
+	s.SkyboxDn = "http://www.roblox.com/asset/?id=158118263"
+	s.SkyboxFt = "http://www.roblox.com/asset/?id=158118263"
+	s.SkyboxLf = "http://www.roblox.com/asset/?id=158118263"
+	s.SkyboxRt = "http://www.roblox.com/asset/?id=158118263"
+	s.SkyboxUp = "http://www.roblox.com/asset/?id=158118263"
 	game.Lighting.TimeOfDay = 12		
 end)
 --
